@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q568 {
+public class J568 {
 	public static void main(String[] args) {
 		// 변수 선언부
 		int[][] firstArray = new int[2][4];
