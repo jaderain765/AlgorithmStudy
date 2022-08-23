@@ -1,9 +1,11 @@
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int 
-        sc.close();
+        int s = 1;
+        int e = 5;
+        
+        for(int i = s; (s>e)? (i >= e) :(i <= e);) {
+        	System.out.println(i);
+        }
     }
 }
