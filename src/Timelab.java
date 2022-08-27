@@ -1,4 +1,10 @@
 
+/**
+ * 프로그렘 시간측정 클라스 입니다.
+ * 
+ * @author MASTER
+ *
+ */
 public class Timelab {
 	private long runTime;
 	private long startTime;
