@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class J596 {
 
 	public static void main(String[] args) {
@@ -15,5 +14,4 @@ public class J596 {
 		
 		System.out.println(new StringBuilder(str).reverse());
 	}
-
 }
